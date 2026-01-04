@@ -21,6 +21,16 @@ class ProductsFromPdfExport implements FromArray, WithHeadings
 
     public function headings(): array
     {
-        return [];
+        return [
+            'Category ID',
+            'Category Name',
+            'Item Code',
+            'Description',
+            'On Hand',
+            'Cost',
+            'Sale',
+            'Cost Total',
+            'Sale Total',
+        ];
     }
 }
