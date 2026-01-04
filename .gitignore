@@ -31,3 +31,4 @@ public/ssr-manifest.json
 public/sw.js
 *.webmanifest
 public/workbox-e3490c72.js
+/packages

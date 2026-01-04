@@ -32,6 +32,7 @@
         "resend/resend-php": "^0.14.0",
         "robinvdvleuten/ulid": "^5.0",
         "saleh7/php-zatca-xml": "^2.2",
+        "smalot/pdfparser": "^2.12",
         "spatie/laravel-activitylog": "^4.8",
         "spatie/laravel-backup": "^9.0",
         "spatie/laravel-permission": "^6.9",
